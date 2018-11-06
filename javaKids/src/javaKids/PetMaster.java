@@ -9,6 +9,9 @@ myPet.eat();
 petReaction = myPet.say(" Чик чирик ! !");
 System.out.println(petReaction);
 myPet.sleep();
+Fish myFish = new Fish();
+myFish.sleep();
+
 	}
 
 }
